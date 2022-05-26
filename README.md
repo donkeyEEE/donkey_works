@@ -7,7 +7,7 @@
 <br>
 ## 5月26日 星期五 晴天
 <br>
-[我的博客](http://blog.csdn.net/guodongxiaren)
+[百度](http://baidu.com)
 <br>
 **读了《庄子》**
 <br>
