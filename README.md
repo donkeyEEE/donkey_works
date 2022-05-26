@@ -7,7 +7,7 @@
 <br>
 ## 5月26日 星期五 晴天
 <br>
-[第一天](https://github.com/donkeyEEE/donkey_work/blob/6e3b9412f2486fb675eb5c082c1c29744a3d541a/diary.md)
+[第一天](https://blog.csdn.net/u012067966/article/details/50736647)
 <br>
 **读了《庄子》**
 <br>
