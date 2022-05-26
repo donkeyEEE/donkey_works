@@ -1,2 +1,6 @@
-# donkey_work
-A repository for the work of donkey
+# diary
+## 5月26日 星期五 晴天
+**读了《庄子》**
+~~今天又摸了一天的🐟~~
+
+
