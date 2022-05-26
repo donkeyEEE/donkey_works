@@ -7,7 +7,7 @@
 <br>
 ## 5月26日 星期五 晴天
 <br>
-[dd](https://blog.csdn.net/u012067966/article/details/50736647)
+[dd] (https://blog.csdn.net/u012067966/article/details/50736647)
 <br>
 **读了《庄子》**
 <br>
