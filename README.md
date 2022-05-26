@@ -7,6 +7,6 @@
 <br>
 ## 5月26日 星期五 晴天
 <br>
-[第一天试玩](https://github.com/donkeyEEE/donkey_work/blob/7bcc75bf793d11f62300dba7ce3a56cb85701198/%E4%BA%94%E6%9C%8826%E6%97%A5.md)
-
+[第一天试玩](https://github.com/donkeyEEE/donkey_work/blob/main/%E4%BA%94%E6%9C%8826%E6%97%A5.md)
+<br>
 
